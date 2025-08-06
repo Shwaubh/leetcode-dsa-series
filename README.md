@@ -19,9 +19,10 @@ This series follows a structured, topic-based roadmap to help you master Leetcod
 
 | ✅ | Leetcode # | Title |   Difficulty  | Topic | YouTube Video |
 |----|------------|-------|---------------|--------|----------------|
-| ⬜ | #1 | Two Sum | Easy | Arrays, Hashing | [Watch](https://youtu.be/9ZLITqIT5Ds) |
-| ⬜ | #121 | Best Time to Buy and Sell Stock | Easy | Arrays, Greedy | [Watch](https://youtu.be/bCsatgmc9Do) |
-| ⬜ | #53 | Maximum Subarray | Medium | Arrays, Greedy | [Watch](https://youtu.be/exM2KFsdXKE) |
+| ✅ | #1 | Two Sum | Easy | Arrays, Hashing | [Watch](https://youtu.be/9ZLITqIT5Ds) |
+| ✅ | #121 | Best Time to Buy and Sell Stock | Easy | Arrays, Greedy | [Watch](https://youtu.be/bCsatgmc9Do) |
+| ✅ | #53 | Maximum Subarray | Medium | Arrays, Greedy | [Watch](https://youtu.be/exM2KFsdXKE) |
+| ⬜ | # | Next | Difficuilty | Topics | [Watch](YT Link) |
 
 ---
 
