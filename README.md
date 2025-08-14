@@ -23,6 +23,7 @@ This series follows a structured, topic-based roadmap to help you master Leetcod
 | ✅ | #121 | Best Time to Buy and Sell Stock | Easy | Arrays, Greedy | [Watch](https://youtu.be/bCsatgmc9Do) |
 | ✅ | #53 | Maximum Subarray | Medium | Arrays, Greedy | [Watch](https://youtu.be/exM2KFsdXKE) |
 | ✅ | #217 | Contains Duplicate | Easy | Arrays, Hashing | [Watch](https://youtu.be/xNP_QlXR9m8) |
+| ✅ | #242 | Valid Anagram | Easy | Hashing, Sorting | [Watch](https://youtu.be/_dpZZvaKNMQ) |
 | ⬜ | # | Next | Difficuilty | Topics | [Watch](YT Link) |
 
 
