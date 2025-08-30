@@ -26,6 +26,7 @@ This series follows a structured, topic-based roadmap to help you master Leetcod
 | ✅ | #242 | Valid Anagram | Easy | Hashing, Sorting | [Watch](https://youtu.be/_dpZZvaKNMQ) |
 | ✅ | #49 | Group Anagrams | Medium | Arrays, Hashing | [Watch](https://youtu.be/IEWedD-qHJI) |
 | ✅ | #20 | Valid Parentheses | Easy | Strings, Stack | [Watch](https://youtu.be/3T5p3TU3UzY) |
+| ✅ | #155 | Min Stack | Medium | Stack | [Watch](https://youtu.be/eY-gZ9DHNKk) |
 | ⬜ | # | Next | Difficuilty | Topics | [Watch](YT Link) |
 
 
