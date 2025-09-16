@@ -28,8 +28,8 @@ This series follows a structured, topic-based roadmap to help you master Leetcod
 | ✅ | #20 | Valid Parentheses | Easy | Strings, Stack | [Watch](https://youtu.be/3T5p3TU3UzY) |
 | ✅ | #155 | Min Stack | Medium | Stack | [Watch](https://youtu.be/eY-gZ9DHNKk) |
 | ✅ | #739 | Daily Temperatures | Medium | Stack,Monotonic Stack | [Watch](https://youtu.be/8iZuokt2sBQ) |
+| ✅ | #84 | Largest Rectangle in Histogram | Hard | Stack | [Watch](https://youtu.be/7HdNcWt301Q) |
 | ⬜ | # | Next | Difficuilty | Topics | [Watch](YT Link) |
-
 
 ---
 
