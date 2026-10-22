@@ -30,6 +30,7 @@ This series follows a structured, topic-based roadmap to help you master Leetcod
 | ✅ | #739 | Daily Temperatures | Medium | Stack,Monotonic Stack | [Watch](https://youtu.be/8iZuokt2sBQ) |
 | ✅ | #84 | Largest Rectangle in Histogram | Hard | Stack | [Watch](https://youtu.be/7HdNcWt301Q) |
 | ✅ | #3863 | Minimum Operations to Sort a String | Medium | Strings, Greedy | [Watch](https://youtu.be/L5EqxKIm_TU) |
+| ✅ | #3942 | Minimum Operations to Sort a Permutation | Medium | Arrays | [Watch](https://youtu.be/vKor39KNR60) |
 | ⬜ | # | Next | Difficuilty | Topics | [Watch](YT Link) |
 
 ---
