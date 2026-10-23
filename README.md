@@ -31,6 +31,7 @@ This series follows a structured, topic-based roadmap to help you master Leetcod
 | ✅ | #84 | Largest Rectangle in Histogram | Hard | Stack | [Watch](https://youtu.be/7HdNcWt301Q) |
 | ✅ | #3863 | Minimum Operations to Sort a String | Medium | Strings, Greedy | [Watch](https://youtu.be/L5EqxKIm_TU) |
 | ✅ | #3942 | Minimum Operations to Sort a Permutation | Medium | Arrays | [Watch](https://youtu.be/vKor39KNR60) |
+| ✅ | #3644 | Maximum K to Sort a Permutation | Medium | Arrays, Bit Manipulation | [Watch](https://youtu.be/9RL4BbhVnvU) |
 | ⬜ | # | Next | Difficuilty | Topics | [Watch](YT Link) |
 
 ---
