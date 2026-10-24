@@ -32,6 +32,7 @@ This series follows a structured, topic-based roadmap to help you master Leetcod
 | ✅ | #3863 | Minimum Operations to Sort a String | Medium | Strings, Greedy | [Watch](https://youtu.be/L5EqxKIm_TU) |
 | ✅ | #3942 | Minimum Operations to Sort a Permutation | Medium | Arrays | [Watch](https://youtu.be/vKor39KNR60) |
 | ✅ | #3644 | Maximum K to Sort a Permutation | Medium | Arrays, Bit Manipulation | [Watch](https://youtu.be/9RL4BbhVnvU) |
+| ✅ | #2409 | Count Days Spent Together | Easy | Math, Strings | [Watch](https://youtu.be/RPyQoLJ6piU) |
 | ⬜ | # | Next | Difficuilty | Topics | [Watch](YT Link) |
 
 ---
