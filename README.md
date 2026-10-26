@@ -34,6 +34,7 @@ This series follows a structured, topic-based roadmap to help you master Leetcod
 | ✅ | #3644 | Maximum K to Sort a Permutation | Medium | Arrays, Bit Manipulation | [Watch](https://youtu.be/9RL4BbhVnvU) |
 | ✅ | #2409 | Count Days Spent Together | Easy | Math, Strings | [Watch](https://youtu.be/RPyQoLJ6piU) |
 | ✅ | #1254 | Number of Closed Islands | Medium | Graph, DFS, Matrix | [Watch](https://youtu.be/Hm69hBP6n1A) |
+| ✅ | #3619 | Count Islands With Total Value Divisible by K | Medium | Graph, DFS, Matrix | [Watch](https://youtu.be/3G2pqvsdH3Q) |
 | ⬜ | # | Next | Difficuilty | Topics | [Watch](YT Link) |
 
 ---
